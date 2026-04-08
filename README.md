@@ -1,8 +1,8 @@
 # kugire-data
 
-Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
-Xudong Chen, Ph.D. Waseda University
-Hodoscek Bor, Ph.D. University of Osaka
+Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo  
+Xudong Chen, Ph.D. Waseda University  
+Hodošček Bor, Ph.D. University of Osaka
 
 A reproducible dataset and toolchain for annotating grammatical phrase boundaries (kugire) in Kokin Wakashu based on morphological information.
 
