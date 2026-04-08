@@ -1,0 +1,875 @@
+{
+  "id": "00001",
+  "w": "年の内に／春はきにけり／一とせを／こそとやいはん／ことしとやいはん",
+  "x": "としのうちに／はるはきにけり／ひととせを／こそとやいはむ／ことしとやいはむ",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "けり",
+      "end_token_pos": "過-終:けり:けり",
+      "end_token_kana": "けり",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "を",
+      "end_token_pos": "＊助",
+      "end_token_kana": "を",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "ん",
+      "end_token_pos": "推-終体:む:む",
+      "end_token_kana": "む",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00066",
+  "w": "桜色に／衣はふかく／そめてきん／花のちりなん／後の形見に",
+  "x": "さくらいろに／ころもはふかく／そめてきむ／はなのちりなむ／のちのかたみに",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "ふかく",
+      "end_token_pos": "形ク-用:深し:ふかし",
+      "end_token_kana": "ふかく",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "ん",
+      "end_token_pos": "推-終体:む:む",
+      "end_token_kana": "む",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "ん",
+      "end_token_pos": "推-終体:む:む",
+      "end_token_kana": "む",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00080",
+  "w": "たれこめて／春の行ゑも／しらぬまに／まちし桜も／うつろひにけり",
+  "x": "たれこめて／はるのゆくへも／しらぬまに／まちしさくらも／うつろひにけり",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "て",
+      "end_token_pos": "接助",
+      "end_token_kana": "て",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "も",
+      "end_token_pos": "係助",
+      "end_token_kana": "も",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "も",
+      "end_token_pos": "係助",
+      "end_token_kana": "も",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00111",
+  "w": "＊こまなめて／いさみにゆかん／故郷は／雪とのみこそ／花はちるらめ／＊１こまなへてイ",
+  "x": "＊こまなめて／いさみにゆかむ／ふるさとは／ゆきとのみこそ／はなはちるらめ／＊１こまなへてイ",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "て",
+      "end_token_pos": "接助",
+      "end_token_kana": "て",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "ん",
+      "end_token_pos": "推-終体:む:む",
+      "end_token_kana": "む",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "こそ",
+      "end_token_pos": "係助",
+      "end_token_kana": "こそ",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00247",
+  "w": "月草に／衣はすらん／あさ露に／ぬれての後は／うつろひぬとも",
+  "x": "つきくさに／ころもはすらむ／あさつゆに／ぬれてののちは／うつろひぬとも",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "ん",
+      "end_token_pos": "推-終体:む:む",
+      "end_token_kana": "む",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00325",
+  "w": "みよしのゝ／山の白雪／つもるらし／故郷さむく／なりまさるなり",
+  "x": "みよしのの／やまのしらゆき／つもるらし／ふるさとさむく／なりまさるなり",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "ゝ",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "白雪",
+      "end_token_pos": "名",
+      "end_token_kana": "しらゆき",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "らし",
+      "end_token_pos": "推-終体已:らし:らし",
+      "end_token_kana": "らし",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "さむく",
+      "end_token_pos": "形ク-用:寒し:さむし",
+      "end_token_kana": "さむく",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00329",
+  "w": "雪降て／人もかよはぬ／道なれや／跡はかもなく／思ひきゆらん",
+  "x": "ゆきふりて／ひともかよはぬ／みちなれや／あとはかもなく／おもひきゆらむ",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "て",
+      "end_token_pos": "接助",
+      "end_token_kana": "て",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "ぬ",
+      "end_token_pos": "消-体:ず:ず",
+      "end_token_kana": "ぬ",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "や",
+      "end_token_pos": "係助",
+      "end_token_kana": "や",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "なく",
+      "end_token_pos": "形ク-用:無し:なし",
+      "end_token_kana": "なく",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00355",
+  "w": "つるかめも／ちとせの後は／しらなくに／あかぬ心に／まかせはてゝん",
+  "x": "つるかめも／ちとせののちは／しらなくに／あかぬこころに／まかせはててむ",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "も",
+      "end_token_pos": "係助",
+      "end_token_kana": "も",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00390",
+  "w": "かつこえて／別れもゆくか／相坂は／人たのめなる／なにこそ有けれ",
+  "x": "かつこえて／わかれもゆくか／あふさかは／ひとたのめなる／なにこそありけれ",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "て",
+      "end_token_pos": "接助",
+      "end_token_kana": "て",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "か",
+      "end_token_pos": "係助",
+      "end_token_kana": "か",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "なる",
+      "end_token_pos": "断-体:なり:なり",
+      "end_token_kana": "なる",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00507",
+  "w": "思ふ共／こふともあはん／物なれや／ゆふてもたゆく／とくる下ひも",
+  "x": "おもふとも／こふともあはむ／ものなれや／ゆふてもたゆく／とくるしたひも",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "※",
+      "end_token_pos": "係助",
+      "end_token_kana": "も",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "ん",
+      "end_token_pos": "推-終体:む:む",
+      "end_token_kana": "む",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "や",
+      "end_token_pos": "係助",
+      "end_token_kana": "や",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "たゆく",
+      "end_token_pos": "形ク-用:弛し:たゆし",
+      "end_token_kana": "たゆく",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00566",
+  "w": "かきくらし／降白雪の／下きえに／消て物思／比にもあるかな",
+  "x": "かきくらし／ふるしらゆきの／したきえに／きえてものおもふ／ころにもあるかな",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "くらし",
+      "end_token_pos": "サ四-用:暗す:くらす",
+      "end_token_kana": "くらし",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "思",
+      "end_token_pos": "ハ四-終体:思ふ:おもふ",
+      "end_token_kana": "おもふ",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00609",
+  "w": "命にも／まさりて惜く／ある物は／見はてぬ夢の／覚るなりけり",
+  "x": "いのちにも／まさりてをしく／あるものは／みはてぬゆめの／さむるなりけり",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "も",
+      "end_token_pos": "係助",
+      "end_token_kana": "も",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "惜く",
+      "end_token_pos": "形シク-用:惜し:をし",
+      "end_token_kana": "をしく",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00613",
+  "w": "今ははや／恋しなましを／あひみんと／たのめし事そ／命成ける",
+  "x": "いまははや／こひしなましを／あひみむと／たのめしことそ／いのちなりける",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "はや",
+      "end_token_pos": "副",
+      "end_token_kana": "はや",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "を",
+      "end_token_pos": "＊助",
+      "end_token_kana": "を",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "と",
+      "end_token_pos": "格助",
+      "end_token_kana": "と",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "そ",
+      "end_token_pos": "終助-禁",
+      "end_token_kana": "そ",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00688",
+  "w": "思てふ／言の葉のみや／秋をへて／色もかはらぬ／物にはあるらん",
+  "x": "おもふてふ／ことのはのみや／あきをへて／いろもかはらぬ／ものにはあるらむ",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "てふ",
+      "end_token_pos": "助詞-連語",
+      "end_token_kana": "てふ",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "や",
+      "end_token_pos": "係助",
+      "end_token_kana": "や",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "て",
+      "end_token_pos": "接助",
+      "end_token_kana": "て",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "ぬ",
+      "end_token_pos": "消-体:ず:ず",
+      "end_token_kana": "ぬ",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00723",
+  "w": "紅の／はつ花そめの／色ふかく／思ひし心／われ忘れめや",
+  "x": "くれなゐの／はつはなそめの／いろふかく／おもひしこころ／われわすれめや",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "ふかく",
+      "end_token_pos": "形ク-用:深し:ふかし",
+      "end_token_kana": "ふかく",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "心",
+      "end_token_pos": "名",
+      "end_token_kana": "こころ",
+      "k_class": "K2"
+    }
+  ]
+}
+{
+  "id": "00729",
+  "w": "色もなき／心を人に／そめしより／うつろはんとは／おもほえなくに",
+  "x": "いろもなき／こころをひとに／そめしより／うつろはむとは／おもほえなくに",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "なき",
+      "end_token_pos": "形ク-体:無し:なし",
+      "end_token_kana": "なき",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "より",
+      "end_token_pos": "格助",
+      "end_token_kana": "より",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00746",
+  "w": "形見こそ／今はあたなれ／これなくは／忘るゝ時も／あらましものを",
+  "x": "かたみこそ／いまはあたなれ／これなくは／わするるときも／あらましものを",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "こそ",
+      "end_token_pos": "係助",
+      "end_token_kana": "こそ",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "あたなれ",
+      "end_token_pos": "形動ナリ-已:仇なり:あたなり",
+      "end_token_kana": "あたなれ",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "も",
+      "end_token_pos": "係助",
+      "end_token_kana": "も",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00869",
+  "w": "色なしと／人や見るらん／昔より／ふかき心に／そめてし物を",
+  "x": "いろなしと／ひとやみるらむ／むかしより／ふかきこころに／そめてしものを",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "と",
+      "end_token_pos": "格助",
+      "end_token_kana": "と",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "らん",
+      "end_token_pos": "推-終体:らむ:らむ",
+      "end_token_kana": "らむ",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "より",
+      "end_token_pos": "格助",
+      "end_token_kana": "より",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00931",
+  "w": "咲初し／時よりのちは／うちはへて／世は春なれや／色のつねなる",
+  "x": "さきそめし／ときよりのちは／うちはへて／よははるなれや／いろのつねなる",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "し",
+      "end_token_pos": "過-体:き:き",
+      "end_token_kana": "し",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "て",
+      "end_token_pos": "接助",
+      "end_token_kana": "て",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "や",
+      "end_token_pos": "係助",
+      "end_token_kana": "や",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00953",
+  "w": "足曳の／山のまに＋＋／かくれなん／うき世中は／あるかひもなし",
+  "x": "あしひきの／やまのまにまに／かくれなむ／うきよのなかは／あるかひもなし",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "まに〈まに〉",
+      "end_token_pos": "副",
+      "end_token_kana": "まにまに",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "なん",
+      "end_token_pos": "終助",
+      "end_token_kana": "なむ",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    }
+  ]
+}
+{
+  "id": "00954",
+  "w": "世中の／うけくにあきぬ／奥山の／このはにふれる／雪やけなまし",
+  "x": "よのなかの／うけくにあきぬ／おくやまの／このはにふれる／ゆきやけなまし",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "ぬ",
+      "end_token_pos": "完-終:ぬ:ぬ",
+      "end_token_kana": "ぬ",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "る",
+      "end_token_pos": "完-体:り:り",
+      "end_token_kana": "る",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "00961",
+  "w": "思きや／鄙のわかれに／おとろへて／あまのなはたき／いさりせんとは",
+  "x": "おもひきや／ひなのわかれに／おとろへて／あまのなはたき／いさりせむとは",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "や",
+      "end_token_pos": "係助",
+      "end_token_kana": "や",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "に",
+      "end_token_pos": "格助",
+      "end_token_kana": "に",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "て",
+      "end_token_pos": "接助",
+      "end_token_kana": "て",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "たき",
+      "end_token_pos": "カ四-用:綰く:たく",
+      "end_token_kana": "たき",
+      "k_class": "K0"
+    }
+  ]
+}
+{
+  "id": "01050",
+  "w": "雲はれぬ／あさまの山の／あさましや／人の心を／見てこそやまめ",
+  "x": "くもはれぬ／あさまのやまの／あさましや／ひとのこころを／みてこそやまめ",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "ぬ",
+      "end_token_pos": "消-体:ず:ず",
+      "end_token_kana": "ぬ",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "や",
+      "end_token_pos": "間助-強調",
+      "end_token_kana": "や",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "を",
+      "end_token_pos": "＊助",
+      "end_token_kana": "を",
+      "k_class": "K2"
+    }
+  ]
+}
+{
+  "id": "01077",
+  "w": "み山には／霰ふるらし／と山なる／まさきのかつら／色付にけり",
+  "x": "みやまには／あられふるらし／とやまなる／まさきのかつら／いろつきにけり",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "は",
+      "end_token_pos": "係助",
+      "end_token_kana": "は",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "らし",
+      "end_token_pos": "推-終体已:らし:らし",
+      "end_token_kana": "らし",
+      "k_class": "K2"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "なる",
+      "end_token_pos": "断-体:なり:なり",
+      "end_token_kana": "なる",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "かつら",
+      "end_token_pos": "名",
+      "end_token_kana": "かつら",
+      "k_class": "K2"
+    }
+  ]
+}
+{
+  "id": "01102",
+  "w": "かけりても／なにをかたまの／きても見ん／からはほのほと／成にし物を",
+  "x": "かけりても／なにをかたまの／きてもみむ／からはほのほと／なりにしものを",
+  "boundaries": [
+    {
+      "phrase": 1,
+      "end_token_surface": "も",
+      "end_token_pos": "係助",
+      "end_token_kana": "も",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 2,
+      "end_token_surface": "の",
+      "end_token_pos": "格助",
+      "end_token_kana": "の",
+      "k_class": "K0"
+    },
+    {
+      "phrase": 3,
+      "end_token_surface": "ん",
+      "end_token_pos": "推-終体:む:む",
+      "end_token_kana": "む",
+      "k_class": "K1"
+    },
+    {
+      "phrase": 4,
+      "end_token_surface": "と",
+      "end_token_pos": "格助",
+      "end_token_kana": "と",
+      "k_class": "K0"
+    }
+  ]
+}
