@@ -12,6 +12,6 @@ clean:
 	rm -f $(TARGET)
 
 run: $(TARGET)
-	./$(TARGET) 01kokin.txt morph.txt > kokin-kugire.json
+	./$(TARGET) 01kokin.txt kokin-pos.txt > kokin-kugire.json
 
 .PHONY: all clean run

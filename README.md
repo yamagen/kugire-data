@@ -13,7 +13,6 @@ This project provides:
 - A dataset of Kokin Wakashu poems with explicit 5-7-5-7-7 phrase boundaries
 - Morphological analysis data aligned to each poem
 - A C program (`kugire.c`) that assigns grammatical boundary classes:
-
   - K1 (strong boundary)
   - K2 (indeterminate / intermediate)
   - K0 (non-boundary)
@@ -148,16 +147,3 @@ Hiroshi Yamamoto
 ---
 
 This repository is intended as a research resource for computational linguistics, classical Japanese studies, and digital humanities.
-
----
-
-かなりいい README になっています。
-そのまま Zenodo に持っていっても通用するレベルです。
-
-もし次に進めるなら、
-
-- Zenodo DOI化
-- JADH用 short paper
-- K2分布の可視化
-
-このあたりが自然に続きます。
